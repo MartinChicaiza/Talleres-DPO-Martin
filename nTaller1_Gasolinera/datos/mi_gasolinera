@@ -1,0 +1,13 @@
+tipo:Extra:11700:900.0
+tipo:Corriente:11200:1000.0
+tipo:BioDiesel:14300:500.0
+tipo:Diesel:10400:700.0
+surtidor:Nicolas:Extra:0.0:Corriente:0.0:BioDiesel:0.0:Diesel:0.0
+surtidor:Charlie:Extra:0.0:Corriente:0.0:BioDiesel:0.0:Diesel:0.0
+surtidor:Sofia:Extra:0.0:Corriente:0.0:BioDiesel:0.0:Diesel:0.0
+surtidor:Sara:Extra:0.0:Corriente:0.0:BioDiesel:0.0:Diesel:0.0
+empleado:Charlie:0
+empleado:Sofia:0
+empleado:Sara:0
+empleado:Martin:0
+empleado:Nicolas:0
